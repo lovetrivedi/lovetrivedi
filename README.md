@@ -1,7 +1,7 @@
 
 # 💻 Love Trivedi – Full-Stack Developer
 
-🚀 **Top Rated Plus** Full-Stack Developer with **9+ years of experience** in designing, building, and optimizing **high-performance web & mobile applications**. Passionate about solving complex problems with modern JavaScript technologies.
+🚀 ** Lead Full-Stack Developer with **10+ years of experience** in designing, building, and optimizing **high-performance web & mobile applications**. Passionate about solving complex problems with modern JavaScript technologies.
 
 ## 🚀 About Me
 
